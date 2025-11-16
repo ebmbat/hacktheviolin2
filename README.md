@@ -25,5 +25,10 @@ hacktheviolin2 code files:
 - Built with Librosa and Claude Sonnet 4
 - Coded with the assistance of Anthropic's Claude Sonnet 4
 
+## Disclaimer
+This code is provided as-is according to the MIT public license. 
+Modify, run, or use it at your own risk. 
+Happy hacking!
+
 
 
